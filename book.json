@@ -1,0 +1,15 @@
+{
+    "title": "随机波动市场衍生品",
+    "author": "伏格（Fouque.J.）",
+    "description": "本书介绍了随机波动率模型的摄动理论",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "structure": {
+        "readme": "README.md"
+    },
+    "links": {
+        "sidebar": {
+            "我的主页": "https://chenhuang.site"
+        }
+    }
+}
